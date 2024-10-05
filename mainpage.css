@@ -1,0 +1,20 @@
+.outbox{
+    border: solid 1px;
+    height: 550px;
+    background-image: url(bg5.jpg);
+    background-repeat: no-repeat;
+    background-size: 1550px 550px;
+
+}
+#nav{
+border: solid 1px white;
+height: 50px;
+line-height: 50px;
+}
+#int{
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+

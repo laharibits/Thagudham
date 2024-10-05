@@ -1,0 +1,40 @@
+body{
+    background-image: url(bg2.avif);
+    background-repeat: no-repeat;
+    background-size: 1550px 700px;
+}
+form{
+    border: solid 2px white;
+    width: 400px;
+    background-color: #ffffff3c;
+    margin-left: 200px;
+}
+h1{
+    text-align: center;
+    color:black;
+    font-size: 45px;
+}
+label{
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+}
+input{
+    width: 300px;
+    height: 35px;
+    margin-bottom: 10px;
+}
+button{
+    height: 40px;
+    width: 150px;
+    background-color: darkslategray;
+    color: white;
+    border-radius: 20px;
+}
+p{
+    color: white;
+}
+#in{
+    color: white;
+    border: solid 1px;
+}
